@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATL RED Housing Code Violation Tracking
 
 ATL RED Housing Code Violation Tracking is a React/NodeJS/Express web application for submitting and processing housing code violations.
@@ -170,3 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Carl DiSalvo](https://www.iac.gatech.edu/people/faculty/disalvo), our professor on the project and the head of the RED ATL Lab
 
 
+=======
+# MobilizerToolkitTemp
+>>>>>>> ca7769cb370e24fcbb5aa667a1106f755fb9a19f
