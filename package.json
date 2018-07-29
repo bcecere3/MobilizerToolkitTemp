@@ -1,0 +1,28 @@
+{
+  "name": "mobilizer-toolkit-server",
+  "version": "1.0.0",
+  "description": "ExecVision Mobilizer Toolkit App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "concurrently": "^3.5.1",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.14.0",
+    "gh-pages": "^1.2.0",
+    "helmet": "^3.11.0",
+    "jsforce": "^1.8.4",
+    "sanitize": "^2.1.0",
+    "server-destroy": "^1.0.1"
+  },
+  "scripts": {
+    "start": "concurrently \"nodemon server.js\" \"cd client &&  npm start\""
+  },
+  "author": "Brendan Cecere",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "nodemon": "^1.17.1"
+  },
+  "homepage": "https://bcecere3.github.io/"
+}
